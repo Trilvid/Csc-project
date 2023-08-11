@@ -1,0 +1,8 @@
+.about{
+    color: green;
+}
+
+nav .about {
+    border-bottom: 1px solid #ccc;
+    transition: 5ms ease-in-out;
+}

@@ -1,0 +1,8 @@
+.agendax{
+    color: green;
+}
+
+nav .agendax {
+    border-bottom: 1px solid #ccc;
+    transition: 5ms ease-in-out;
+}
