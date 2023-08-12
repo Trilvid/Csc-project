@@ -184,7 +184,7 @@
     </div>
     </div>
 
-    <div class="space" id="about" data-aos="fade-up">
+    <div class="space" data-aos="fade-up">
         <span>
             <div class="line"></div>
         <h2>state of art conference venue </h2>

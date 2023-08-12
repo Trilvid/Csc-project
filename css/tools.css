@@ -181,6 +181,7 @@
     color: rgb(88, 87, 87);
     padding: 10px;
     font-size: .9em;
+    text-transform: capitalize;
   }
   
   .heading:hover {

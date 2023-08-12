@@ -4,6 +4,8 @@
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 </head>
 
+<?php require "loader.php" ?>
+
 <div class="container">
 
 <!-- html for body -->
@@ -29,7 +31,7 @@
             <button class="button" style="vertical-align:middle"  data-aos="fade-up">
                 <span>Register</span>
             </button>
-            
+            <!-- <h1>about us</h1> -->
         </div>
 
     </section>
@@ -57,6 +59,146 @@
         </span>
     </div>
 
+
+<div class="space" id="speaker" data-aos="fade-up">
+        <span>
+            <div class="line"></div>
+        <h2>meet our event sponsors </h2>
+        </span>
+</div>
+
+
+<div class="sponsors" data-aos="fade-in">
+    <span data-aos="fade-up">
+    <img src="./img/s1.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s2.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s3.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s4.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s5.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s6.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s7.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s8.png" alt="file not found ">
+    </span>
+</div>
+
+
+<div class="space" id="speaker" data-aos="fade-up">
+        <span>
+            <div class="line"></div>
+        <h2>meet the organizers </h2>
+        </span>
+</div>
+
+    <!-- speakers -->
+    <div class="speakers" data-aos="fade-up">
+
+        <div class="first" data-aos="fade-up">
+
+        <div class="card" data-aos="zoom-in">
+            <div class="card-image"></div>
+            <div class="category"> 
+                <h1>ngele grace</h1>
+            </div>
+            <div class="heading">
+                <p>product designer</p>
+            </div>
+            </div>
+
+            <div class="card" data-aos="zoom-out">
+                <div class="card-image card-image2"></div>
+                <div class="category"> 
+                    <h1>okonkwo chigozie</h1>    
+                </div>
+                <div class="heading">
+                    <p>frontend developer</p>
+                </div>
+            </div>
+
+            <div class="card" data-aos="zoom-in">
+                <div class="card-image card-image3"></div>
+                <div class="category">
+                    <h1>chinedu emmanuel</h1>
+                </div>
+                <div class="heading">
+                    <p>frontend developer  </p>
+                </div>
+            </div>
+
+
+            <div class="card" data-aos="zoom-in">
+                <div class="card-image card-image3"></div>
+                <div class="category">
+                    <h1>okeke johnpaul</h1>
+                </div>
+                <div class="heading">
+                    <p> ethinical hacking/AI.</p>
+                </div>
+            </div>
+            
+
+            <div class="card" data-aos="zoom-in">
+            <div class="card-image"></div>
+            <div class="category"> 
+                <h1>anyiam miracle</h1>
+            </div>
+            <div class="heading">
+                <p>backend/Game developer(C#/Unity)</p>
+            </div>
+            </div>
+
+            <div class="card" data-aos="zoom-out">
+                <div class="card-image card-image2"></div>
+                <div class="category"> 
+                    <h1>nwanna progress</h1>    
+                </div>
+                <div class="heading">
+                    <p>brand identity/product designer</p>
+                </div>
+            </div>
+
+            <div class="card" data-aos="zoom-in">
+                <div class="card-image card-image3"></div>
+                <div class="category">
+                    <h1>ude daniel</h1>
+                </div>
+                <div class="heading">
+                    <p>frontend/backend developer(html/phython)</p>
+                </div>
+            </div>
+
+
+            <div class="card" data-aos="zoom-in">
+                <div class="card-image card-image3"></div>
+                <div class="category">
+                    <h1>let's connect</h1>
+                </div>
+                <div class="heading">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.?</p>
+                </div>
+            </div>
+          
+    </div>
+    </div>
+
+    <div class="space">
+        <h1>we hope that you will join us for this exciting event! </h1>
+    </div>
+
+    <?php require "footer.php" ?>
 
 </section>
 </div>

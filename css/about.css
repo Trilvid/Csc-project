@@ -7,13 +7,21 @@ nav .about {
     transition: 5ms ease-in-out;
 }
 
+
+/* .image-cover h1 {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    font-size: 2.2em;
+    margin-left: 40%;
+} */
+
 .about-us {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 100%;
-    border: 1px solid red;
     padding: 20px;
     box-sizing: border-box;
 }
@@ -24,9 +32,25 @@ nav .about {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 1px solid rebeccapurple;
 }
 
 .about-us span img{
-    
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.about-us span p{
+    width: 80%;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.space h1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: popping;
+    padding: 10px;
+    box-sizing: border-box;
 }
