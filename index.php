@@ -138,7 +138,6 @@
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.?</p>
                 </div>
             </div>
-
             
 
             <div class="card" data-aos="zoom-in">
@@ -181,223 +180,136 @@
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.?</p>
                 </div>
             </div>
-
-            
-
-            <div class="card" data-aos="zoom-in">
-            <div class="card-image"></div>
-            <div class="category"> 
-                <h1>Be Inspired</h1>
-            </div>
-            <div class="heading">
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.?</p>
-            </div>
-            </div>
-
-            <div class="card" data-aos="zoom-out">
-                <div class="card-image card-image2"></div>
-                <div class="category"> 
-                    <h1>let's learn</h1>    
-                </div>
-                <div class="heading">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.?</p>
-                </div>
-            </div>
-
-            <div class="card" data-aos="zoom-in">
-                <div class="card-image card-image3"></div>
-                <div class="category">
-                    <h1>let's connect</h1>
-                </div>
-                <div class="heading">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.?</p>
-                </div>
-            </div>
-
-
-            <div class="card" data-aos="zoom-in">
-                <div class="card-image card-image3"></div>
-                <div class="category">
-                    <h1>let's connect</h1>
-                </div>
-                <div class="heading">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.?</p>
-                </div>
-            </div>
-
-            
-
+          
     </div>
-
     </div>
 
     <div class="space" id="about" data-aos="fade-up">
         <span>
             <div class="line"></div>
-        <h2>about the submit </h2>
+        <h2>state of art conference venue </h2>
         </span>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate cumque dicta dolore. Molestiae qui sed voluptatum itaque non nisi tempore. Excepturi, soluta. Corrupti sunt</p>
 </div>
 
-<div class="second" data-aos="fade-in">
-    <span class="about-img">
-        <img src="./img/about.png" alt="file not found">
+<!-- state of art -->
+<div class="soa" data-aos="fade-in">
+    <span>
+        <div><img src="img/A.jpg" alt="file not found"></div>
+        <div><img src="img/A.jpg" alt="file not found"></div>
     </span>
-
-    <span class="about-text" data-aos="zoom-in">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex praesentium doloremque commodi officia explicabo, consequatur libero mollitia est consequuntur temporibus molestiae molestias? Quia nisi officiis distinctio, voluptatum exercitationem porro laborum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam minima praesentium repudiandae et ea fugiat, possimus rem nihil facilis quaerat sit corrupti consectetur laborum delectus magni autem reiciendis iste alias.</p>
+    <span>
+       <div> <img src="img/A.jpg" alt="file not found"></div>
     </span>
 </div>
 
 
-    <div id="location"></div>
-
-    <div class="stage" data-aos="fade-up">
-        <div class="stage-img" data-aos="zoom-in">
-            <img src="./img/2.jpg" alt="file not found">
-        </div>
-
-        <div class="stage-text" data-aos="fade-in">
-            <h2>ready to meet with great minds</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, perferendis! Labore pariatur iste nihil asperiores iusto ducimus odit eaque itaque sunt vel nemo ab impedit eum, veritatis voluptas neque libero?
-            </p>
-            <br>
-            <button class="button" style="vertical-align:middle" data-aos="zoom-in">
-                <span>Get</span>
-            </button>
-   </div>
-
-    </div>
-
-
-<div class="space" id="agenda" data-aos="fade-up">
+<div class="space" id="speaker" data-aos="fade-up">
         <span>
             <div class="line"></div>
-        <h2>our agenda </h2>
+        <h2>become part of the movement </h2>
         </span>
-</div>
 
-
-    <!-- tag for agenda -->
-    <div class="agenda" data-aos="fade-up">
-        <div class="agenda-one" data-aos="fade-in">
-        <span class="day" data-aos="zoom-in">Day 1</span>
-
-        <div class="schedue" data-aos="fade-in">
-            <span>july 7th, 2023</span>
-
-            <div class="sessions" data-aos="fade-in">
-            <h2>morning session 9am - 12am</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam rem alias?</p>
-            <p><b>keynote:</b> lorem ipsum dolor</p>
-            <p><b>speaker:</b> lorem ipsum dolor</p>
-            </div>
-
-            <div class="sessions" data-aos="fade-in">
-            <h2>afternoon session 2pm - 5pm</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam rem alias?</p>
-            <p><b>keynote:</b> lorem ipsum dolor</p>
-            <p><b>speaker:</b> lorem ipsum dolor</p>
-            </div>
-            
-            <div class="sessions" data-aos="fade-in">
-            <h2>evening session 7pm - 8pm</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam rem alias?</p>
-            <p><b>keynote:</b> lorem ipsum dolor</p>
-            <p><b>speaker:</b> lorem ipsum dolor</p>
-            </div>
-            
-        </div>
-        </div>
-
-        <div class="agenda-one" data-aos="fade-in">
-        <span class="day" data-aos="zoom-in">Day 2</span>
-
-        <div class="schedue" data-aos="fade-up">
-            <span>july 8th, 2023</span>
-
-            <div class="sessions" data-aos="fade-in">
-            <h2>morning session 9am - 12am</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam rem alias?</p>
-            <p><b>keynote:</b> lorem ipsum dolor</p>
-            <p><b>speaker:</b> lorem ipsum dolor</p>
-            </div>
-
-            <div class="sessions" data-aos="fade-in">
-            <h2>afternoon session 2pm - 5pm</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam rem alias?</p>
-            <p><b>keynote:</b> lorem ipsum dolor</p>
-            <p><b>speaker:</b> lorem ipsum dolor</p>
-            </div>
-            
-            <div class="sessions" data-aos="fade-in">
-            <h2>evening session 7pm - 8pm</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam rem alias?</p>
-            <p><b>keynote:</b> lorem ipsum dolor</p>
-            <p><b>speaker:</b> lorem ipsum dolor</p>
-            </div>
-            
-        </div>
-
-    </div>
-    </div>
-
-    <!-- tag for contact -->
-    <div class="contact" id="contact" data-aos="fade-up">
-        <span>
-            <h1>get your ticket now</h1>
-        </span>
-        
-        <div class="cardx" data-aos="fade-in">
-            
-  <form class="form">
-    <div class="group">
-    <input placeholder=" " type="text" required="">
-    <label for="name">Name</label>
-    </div>
-<div class="group">
-    <input placeholder=" " type="email" id="email" name="email" required="">
-    <label for="email">Email</label>    
-    </div>
-<div class="group">
-    <textarea placeholder=" " id="comment" name="comment" rows="5" required=""></textarea>
-    <label for="comment">Comment</label>
-</div>
-    <button type="submit" class="button">Submit</button>
-  </form>
-</div>
-    </div>
-
-
-    <div class="space" id="sponspors" data-aos="fade-up">
-        <span>
-            <div class="line"></div>
-        <h2>our Sponsors </h2>
-        </span>
+        <p>we are looking for sponsors and patners interested <br> in being part of the conference. help make this event the best yet</p>
 </div>
 
 <!-- sponsors -->
-<div class="sponsors" data-aos="fade-in">
-    <img src="./img/fl.png" alt="file not found ">
-    <img src="./img/fll.png" alt="file not found ">
-    <img src="./img/flll.png" alt="file not found ">
+<div class="sponsporus">
+    <span data-aos="zoom-in">
+        <h1>be a sponsor</h1>
+        <p>we are looking for sponsors and partners. help make this event the best yet</p>
+    </span>
+    
+    <span data-aos="zoom-in">
+        <h1>become an event planner</h1>
+        <p>we are looking for sponsors and partners. help make this event the best yet</p>
+    </span>
 </div>
 
+
+
+<div class="sponsors" data-aos="fade-in">
+    <span data-aos="fade-up">
+    <img src="./img/s1.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s2.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s3.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s4.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s5.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s6.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s7.png" alt="file not found ">
+    </span>
+    <span data-aos="fade-up">
+    <img src="./img/s8.png" alt="file not found ">
+    </span>
+</div>
+
+<div class="sponsor-text" data-aos="fade-in">
+    <span>
+        <p>Whether you’re an AI expert, brand new to the scene,</p>
+        <p>a tech enthusiast or not - we can’t wait to show you</p>
+        <p>what the future holds.</p>
+
+    </span>
+
+    <a href="#">
+    <button class="button"  data-aos="fade-up">
+            <span>Register</span>
+        </button>
+    </a>
+</div>
+
+<div class="check-faq">
+    <p>Want to learn about pricing, accessibility, what the event includes,
+        or anything else?</p>
+
+<h1>Check FAQ</h1>
+</div>
+
+<hr data-aos="zoom-in">
+
+
+<div class="space" id="speaker" data-aos="fade-up">
+        <span>
+            <div class="line"></div>
+        <h2>policies</h2>
+        </span>
+</div>
+
+<div class="policy" data-aos="fade-in">
+    <span>
+        <h2>Code of Conduct</h2>
+        <p>To learn about our commitment to
+        providing a safe and inclusive
+        experience for everyone, read our
+        Code of Conduct.
+        </p>
+    </span>
+    <span>
+        <h2>Conference Terms & Conditions</h2>
+        <p>To learn about our general conference
+            policies, including refunds and
+            cancellations, read our Conference
+            Terms.
+        </p>
+    </span>
+</div>
 
     </section>
 </div>
 
-<footer class="footer" data-aos="fade-up">
-    <span>&copy 2023</span>
-    <span class="f-icon"> 
-<a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-
-<a href="#"><i class="fa-brands fa-linkedin"></i></a>
-
-<a href="mailto:hello@trillztech.com"><i class="fas fa-envelope"></i></a>
-
-<a href="https://wa.link/whys6h" onkeyup=""><i class="fab fa-whatsapp"></i></a>
-</span>
-</footer>
+<?php require "footer.php" ?>
 
 
 </div>

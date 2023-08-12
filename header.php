@@ -12,8 +12,7 @@
 
 <header class="header" id="navbar">
     <div class="logo">
-        <!-- <a href="#"><img src="./img/logo.png" alt="file not found"></a> -->
-        <a href="/"><h1>BRAND LOGO</h1></a>
+        <a href="/"><img src="./img/icon.png" alt="file not found"></a>
     </div>
 
     <div class="menu">
@@ -25,12 +24,16 @@
             <a href="faq.php" class="faq">FAQ</a>
 
             <a href="#" class='reg-icon'>
-            <span>
+            <!-- <span>
             register 
             <i class="material-symbols-outlined">
                 arrow_right_alt
             </i>
-            </span>
+            </span> -->
+
+            <button class="button" style="vertical-align:middle"  data-aos="fade-up">
+                <span>Register</span>
+            </button>
             </a>
         </nav>
     </div>
@@ -48,15 +51,19 @@
             <a href="index.php#location">FAQ</a>
 
             <a href="#">
-            <button class='btn2'>
+            <!-- <button class='btn2'>
                 <p>register</p>
                 <svg stroke-width="4" stroke="currentColor" viewBox="0 0 24 24" fill="none" class="h-6 w-6" xmlns="http://www.w3.org/2000/svg">
                 <path d="M14 5l7 7m0 0l-7 7m7-7H3" stroke-linejoin="round" stroke-linecap="round"></path>
                 </svg>
+            </button> -->
+
+            <button class="button" style="vertical-align:middle"  data-aos="fade-up">
+                <span>Register</span>
             </button>
             </a>
         </nav>
     </div>
 
-    <!-- <script src="script/index.js"></script> -->
+    <script src="script/index.js"></script>
 </html>

@@ -1,8 +1,32 @@
 .about{
-    color: green;
+    color: var(--prix-color);
 }
 
 nav .about {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid var(--prix-color);
     transition: 5ms ease-in-out;
+}
+
+.about-us {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border: 1px solid red;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.about-us span {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rebeccapurple;
+}
+
+.about-us span img{
+    
 }
