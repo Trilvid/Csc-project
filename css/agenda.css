@@ -1,8 +1,100 @@
 .agendax{
-    color: green;
+    color: var(--prix-color);
 }
 
 nav .agendax {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid var(--prix-color);
     transition: 5ms ease-in-out;
+}
+
+.agenda {
+    /* border: 1px solid red; */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.agenda .agenda-head {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20px 0px;
+}
+
+.agenda .agenda-head span{
+    width: 50%;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    border: 1px solid #ccc;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.agenda .agenda-head .isActive {
+    color: var(--white);
+    background-color: var(--prix-color);
+    border: 0px;
+}
+
+.agenda-body {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.agenda-body .head {
+    width: 100%;
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 10px;
+    margin-left: 55px;
+}
+
+.agenda-body .left{
+    width: 45%;
+    text-transform: capitalize;
+
+}
+
+.agenda-body .left span img {
+    width: 300px;
+}
+
+.agenda-body .left h2{
+    font-weight: 500;
+}
+
+.agenda-body .left li{
+    font-size: .9em;
+}
+
+.agenda-body .right{
+    width: 45%;
+}
+
+.agenda-body .right h1{
+    text-transform: capitalize;
+    font-weight: 500;
+
+}
+
+.agenda-body .right li{
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--text-color);
+}
+
+.agenda-body .right p{
+    text-transform: capitalize;
+    
 }

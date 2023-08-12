@@ -16,9 +16,8 @@
  <?php require "header.php" ?>
 
         <div class="image-cover">
-            <h4>we're ready &nbsp &nbsp &nbsp august 5th-7th</h4>
-            <h1>Bridging the gap : <br>
-             AI innovation in higher education
+            <h4> August 5th-7th</h4>
+            <h1>about this event
              </h1>
 
             <p> join us as we explore the frontiers of AI innovation in higher education. <br> 
@@ -29,7 +28,7 @@
 
 
             <button class="button" style="vertical-align:middle"  data-aos="fade-up">
-                <span>Register</span>
+                <span>Explore</span>
             </button>
             <!-- <h1>about us</h1> -->
         </div>

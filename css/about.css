@@ -8,14 +8,6 @@ nav .about {
 }
 
 
-/* .image-cover h1 {
-    text-align: center;
-    width: 100%;
-    margin: 0;
-    font-size: 2.2em;
-    margin-left: 40%;
-} */
-
 .about-us {
     display: flex;
     flex-direction: column;

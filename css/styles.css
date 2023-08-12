@@ -107,7 +107,8 @@ nav a {
 }
 
 nav a:hover {
-    border-bottom: 1px solid #f2f2f2;
+    border-bottom: 1px solid var(--prix-color);
+    color: var(--prix-color);
     transition: 5ms ease-in-out;
 }
 
@@ -797,6 +798,63 @@ p{
 .sponsors span img {
   margin-top: 10px;
 }
+
+.sponsporus {
+  flex-direction: column;
+}
+
+.sponsporus span{
+  width: 80%;
+  margin-top: 20px;
+}
+
+.check-faq {
+  width: 100%;
+  flex-direction: column;
+}
+
+.check-faq p {
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+  pad: 20px;
+}
+
+.check-faq h1{
+  width: 100%;
+  font-size: 1.2em;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.policy {
+  flex-direction: column;
+}
+
+.policy span{
+  width: 100%;
+  margin-top: 20px;
+}
+
+.footer {
+  box-sizing: border-box;
+}
+
+.footer div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer div span{
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.footer .f-last {
+  box-sizing: border-box;
+}
+
 
 
 }

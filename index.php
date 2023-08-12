@@ -24,7 +24,7 @@
  <?php require "header.php" ?>
 
         <div class="image-cover">
-            <h4>we're ready &nbsp &nbsp &nbsp august 5th-7th</h4>
+            <h4>August 5th-7th</h4>
             <h1>Bridging the gap : <br>
              AI innovation in higher education
              </h1>
