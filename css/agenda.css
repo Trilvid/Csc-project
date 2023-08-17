@@ -5,6 +5,7 @@
 nav .agendax {
     border-bottom: 1px solid var(--prix-color);
     transition: 5ms ease-in-out;
+    color: var(--prix-color);
 }
 
 .agenda {
@@ -44,7 +45,6 @@ nav .agendax {
 
 .agenda-body {
     width: 100%;
-    height: 500px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -80,6 +80,7 @@ nav .agendax {
 
 .agenda-body .right{
     width: 45%;
+    margin-bottom: 30px;
 }
 
 .agenda-body .right h1{
@@ -97,4 +98,48 @@ nav .agendax {
 .agenda-body .right p{
     text-transform: capitalize;
     
+}
+
+.agenda-body2 {
+    border: 1px solid red;
+    width: 100%;
+    height: 500px;
+    margin-top: 30px;
+}
+
+@media (max-width: 640px) {
+    
+.sm-menu nav .agendax {
+    color: var(--prix-color);
+}
+
+.agenda-body {
+    margin-bottom: 50px;
+    flex-direction: column;
+}
+
+.agenda .agenda-head {
+    width: 80%;
+}
+
+.agenda-body .head {
+    width: 80%;
+    margin-left: 0;
+}
+
+.agenda-body .left{
+    width: 90%;
+    text-transform: capitalize;
+}
+
+.agenda-body .left span img {
+    width: fit-content;
+}
+
+.agenda-body .right{
+    width: 90%;
+}
+
+
+
 }

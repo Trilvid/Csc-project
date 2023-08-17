@@ -84,7 +84,7 @@
 </div>
 
 
-<div class="space" id="speaker" data-aos="fade-up">
+<div class="space" id="speakers" data-aos="fade-up">
         <span>
             <div class="line"></div>
         <h2>world class speakers </h2>

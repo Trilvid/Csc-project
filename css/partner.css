@@ -1,0 +1,46 @@
+
+nav .partnerx {
+    border-bottom: 1px solid var(--prix-color);
+    transition: 5ms ease-in-out;
+    color: var(--prix-color);
+}
+
+.sponsporus {
+    width: fit-content;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+ .sponsors {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+}
+
+.sponsors span img{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0;
+}
+
+.space {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+}
+
+.space span {
+    max-width: 500px;
+}
+
+
+
+@media (max-width: 640px) {
+
+    .sm-menu nav .partnerx {
+        color: var(--prix-color);
+    }
+}

@@ -33,13 +33,13 @@
     </section>
 
 
- <div class="agenda" data-aos="fade-up">
-    <div class="agenda-head">
-        <span class="isActive">day 1</span>
-        <span>day 2</span>
+ <div class="agenda" data-aos="fade-up" id="myAgenda">
+    <div class="agenda-head" id="myAgenda">
+        <span class="isActive" id="one">day 1</span>
+        <span id="two">day 2</span>
     </div>
 
-    <div class="agenda-body">
+    <div class="agenda-body" id="agendaBody">
         <h1 class="head">August 5th 9:00 AM WAT</h1>
         <div class="left">
             <span>
@@ -65,7 +65,7 @@
             
         </div>
 
-        <div class="agenda-body">
+<br><br>
         <div class="left">
             <span>
                 <img src="img/back.png" alt="file not found">
@@ -76,35 +76,7 @@
         </div>
 
         <div class='right'>
-            <h1>opeining session</h1>
-            <li>welcome and introduction</li>
-            <p>event organizers:</p>
-            <p>john deo - PRO</p>
-            <p>van dan biler - manager</p>
-            <p>kwame lam - lead  developer</p>
-            <p>9:30 AM - 10:30 AM WAT</p>
-
-            <button class="button" style="vertical-align:middle"  data-aos="fade-up">
-                <span>Join In</span>
-            </button>
-        </div>
-
-    </div>
-
-
-    <div class="agenda-body">
-        <!-- <h1 class="head">August 5th 9:00 AM WAT</h1> -->
-        <div class="left">
-            <span>
-                <img src="img/back.png" alt="file not found">
-            </span>
-            <h2>break - 10:30 WAT</h2>
-            <li>breakfast</li>
-            <p>10:30 AM - 11:30 AM</p>
-        </div>
-
-        <div class='right'>
-            <h1>openning session</h1>
+            <h1>red carpet</h1>
             <li>welcome and introduction</li>
             <p>event organizers:</p>
             <p>john deo - PRO</p>
@@ -118,7 +90,7 @@
             
         </div>
 
-        <div class="agenda-body">
+        <br><br>
         <div class="left">
             <span>
                 <img src="img/back.png" alt="file not found">
@@ -129,7 +101,7 @@
         </div>
 
         <div class='right'>
-            <h1>openning session</h1>
+            <h1>red carpet</h1>
             <li>welcome and introduction</li>
             <p>event organizers:</p>
             <p>john deo - PRO</p>
@@ -140,15 +112,21 @@
             <button class="button" style="vertical-align:middle"  data-aos="fade-up">
                 <span>Join In</span>
             </button>
+            
         </div>
+
 
     </div>
 
+    <div class="agenda-body2" id="agendaBody2"></div>
 
- </div>
+</div>
 
-<?php require "footer.php" ?>
+    <?php require "footer.php" ?>
+
 
  </section>
  </div>
  </div>
+
+ <script src="script/index.js"></script>

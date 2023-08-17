@@ -40,3 +40,16 @@ function handleScroll() {
   
   window.addEventListener("scroll", handleScroll);
   
+
+  // script for agenda page
+  document.getElementById("myAgenda").addEventListener("click", ()=> {
+
+    const head = document.getElementById('two');
+    // head.style.border='1px solid green';
+    if (head.classList == "isActive") {
+      alert("yh it is")
+    }
+    else{
+    alert("wow")
+    }
+  })

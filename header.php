@@ -24,12 +24,6 @@
             <a href="faq.php" class="faq">FAQ</a>
 
             <a href="#" class='reg-icon'>
-            <!-- <span>
-            register 
-            <i class="material-symbols-outlined">
-                arrow_right_alt
-            </i>
-            </span> -->
 
             <button class="button" style="vertical-align:middle"  data-aos="fade-up">
                 <span>Register</span>
@@ -44,19 +38,13 @@
 
     <div class="sm-menu" id="sm">
         <nav>
-            <a href="index.php#about">about us</a>
-            <a href="index.php#agenda">Agenda</a>
-            <a href="index.php#speaker">speaker</a>
-            <a href="index.php#contact">partners</a>
-            <a href="index.php#location">FAQ</a>
+            <a href="about.php" class="about">about us</a>
+            <a href="agenda.php" class='agendax'>Agenda</a>
+            <a href="speaker.php" class='speakerx'>speaker</a>
+            <a href="partners.php" class='partnerx'>partners</a>
+            <a href="faq.php" class="faq">FAQ</a>
 
-            <a href="#">
-            <!-- <button class='btn2'>
-                <p>register</p>
-                <svg stroke-width="4" stroke="currentColor" viewBox="0 0 24 24" fill="none" class="h-6 w-6" xmlns="http://www.w3.org/2000/svg">
-                <path d="M14 5l7 7m0 0l-7 7m7-7H3" stroke-linejoin="round" stroke-linecap="round"></path>
-                </svg>
-            </button> -->
+            <a href="#" class='reg-icon'>
 
             <button class="button" style="vertical-align:middle"  data-aos="fade-up">
                 <span>Register</span>

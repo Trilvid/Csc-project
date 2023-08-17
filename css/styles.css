@@ -112,7 +112,6 @@ nav a:hover {
     transition: 5ms ease-in-out;
 }
 
-
 nav .reg-icon span {
   width: max-content;
 }
@@ -233,7 +232,7 @@ p{
 }
 
 .space {
-    width: 100%;
+    width: 90%;
     padding: 10px;
     box-sizing: border-box;
     display: flex;
@@ -310,7 +309,7 @@ p{
 
 .soa {
   border: 1px solid red;
-  width: 100%;
+  width: 90%;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -350,7 +349,7 @@ p{
 
 /* sponspor  */
 .sponsporus{
-  width: 100%;
+  width: 90%;
   box-sizing: border-box;
   margin-top: 10px;
   display: flex;
@@ -395,7 +394,7 @@ p{
 
 /* style for speakers */
 .speakers {
-    width: 100%;
+    width: 95%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -412,7 +411,7 @@ p{
 
   /* sponsors */
   .sponsors {
-    width: 100%;
+    width: 90%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -690,14 +689,22 @@ p{
   margin-bottom: 30px;
 }
 
+.image-cover h3 {
+  width: fit-content;
+  margin-top: 0;
+}
+
 .sect {
   width: 100%;
+  box-sizing: border-box;
 }
 
 .sect .first {
   flex-direction: column;
   padding: 10px;
   margin-bottom: 50px;
+  box-sizing: border-box;
+  width: fit-content;
 }
 
 .first .card {
@@ -846,14 +853,26 @@ p{
   flex-direction: column;
 }
 
+.footer div img { 
+  display: none;
+}
+
 .footer div span{
   width: 100%;
   box-sizing: border-box;
+  font-size: .9rem;
 }
 
 .footer .f-last {
   box-sizing: border-box;
+  flex-direction: row;
+  font-size: .8em;
 }
+
+.footer .input-group {
+  flex-direction: row;
+}
+
 
 
 

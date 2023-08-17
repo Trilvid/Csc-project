@@ -5,6 +5,7 @@
 nav .about {
     border-bottom: 1px solid var(--prix-color);
     transition: 5ms ease-in-out;
+    color: var(--prix-color);
 }
 
 
@@ -45,4 +46,14 @@ nav .about {
     font-family: popping;
     padding: 10px;
     box-sizing: border-box;
+}
+
+@media (max-width: 640px) {
+    
+.sm-menu nav .about {
+    border-bottom: 1px solid var(--prix-color);
+    transition: 5ms ease-in-out;
+    color: var(--prix-color);
+}
+
 }
