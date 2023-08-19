@@ -1,0 +1,15 @@
+
+nav .faq {
+    border-bottom: 1px solid var(--prix-color);
+    transition: 5ms ease-in-out;
+    color: var(--prix-color);
+}
+
+@media (max-width: 640px) {
+    
+.sm-menu nav .faq {
+    color: var(--prix-color);
+    margin-bottom: 20px;
+}
+
+}
