@@ -275,7 +275,7 @@
         or anything else?</p>
 
 <h1>Check FAQ</h1>
-</div>
+</div>      
 
 <hr data-aos="zoom-in">
 
